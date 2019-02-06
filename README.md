@@ -22,3 +22,5 @@ mysql_query("SET COLLATION_CONNECTION = 'utf8_general_ci'");
 INSERT INTO datas (`id` ,`name` ,`surname` ,`sex` ,`phone` ,`city`) VALUES (NULL ,  '".$character->name."',  '".$character->surname."',  '".$character->sex."',  '".$character->phone."',  '".$character->city."');"
 ```
 - Step 5 : Run.
+
+> You can check the data instantly by running this file with cronjob.
