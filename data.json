@@ -1,0 +1,16 @@
+[
+	{
+		"name": "Abdul",
+		"surname": "Cabbar",
+		"sex":"Male",
+		"phone":"555",
+		"city":"İstanbul"
+	},	
+	{
+		"name": "Celaliye",
+		"surname": "Celalettin",
+		"sex":"Female",
+		"phone":"507",
+		"city":"İzmir"
+	}
+]
